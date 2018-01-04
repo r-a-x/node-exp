@@ -1,0 +1,8 @@
+{
+  "name": "Node-exp",
+  "version": "0.0.0",
+  "description": "A simple http server for testing purpose",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
